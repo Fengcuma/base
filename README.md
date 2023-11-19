@@ -1,2 +1,2 @@
-# Maze
+# Base
 maze game
